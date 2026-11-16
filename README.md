@@ -17,7 +17,6 @@ I build models that support real lending and compliance decisions — and I care
 |---|---|---|
 | [**Euribor 12M forecasting**](https://github.com/alejandroaranega/euribor-forecasting) | Can ARIMA / ETS beat the random walk? 201-month rolling-origin backtest, Diebold–Mariano and block bootstrap; turns forecast error into mortgage-payment risk (±85 €/month at 12 months; +2 pp stress ≈ +175 €/month) | Python · statsmodels · pytest |
 
-🔨 *Coming next:* a credit risk PD scorecard with out-of-time validation (Home Credit 2024), to be published in late November 2026.
 
 ### 🛠️ Tech stack
 **Languages:** Python · R · SQL
